@@ -1,5 +1,9 @@
 hello
 hi
+<<<<<<< HEAD
 iiii
 hrdgg
 hsdgfhsh
+=======
+rrr
+>>>>>>> cb9f3a210e67e3025c6ac9131e9083918c3eabce
